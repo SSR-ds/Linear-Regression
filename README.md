@@ -18,4 +18,4 @@ E-commerce insights:
 
 •	Implemented Multivariate Linear Regression model to facilitate decision making on a Kaggle E-commerce dataset using Python and obtained an accuracy of 98%
 
-•	Projected the insights and predictors correlation in Python 2D Visualization
+•	Projected the insights and predictors correlation in Python 2D Visualization.
