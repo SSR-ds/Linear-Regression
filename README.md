@@ -20,6 +20,6 @@ E-commerce insights:
 
 •	Projected the insights and predictors correlation in Python 2D Visualization.
 
-Project 2:
+Project 3:
 
 Performance of Linear Regression on a simple Salary Dataset
